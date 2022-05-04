@@ -120,13 +120,13 @@ Copyright gfycat.com
 
 Внешний вид без сортировки (вы можете визуально улучшить отображение):
 
-![](./pic/loading.png)
+![](https://github.com/RT-Vinsent/ahj-homeworks/raw/simplification/dom/pic/loading.png)
 
 Обратите внимание, в каком виде выводятся оценки (после точки всегда два символа).
 
 При сортировке по id (по возрастанию):
 
-![](./pic/loading-2.png)
+![](https://github.com/RT-Vinsent/ahj-homeworks/raw/simplification/dom/pic/loading-2.png)
 
 Обратите внимание на стрелку возле id.
 
@@ -191,13 +191,13 @@ Copyright gfycat.com
 
 Внешний вид без сортировки (вы можете визуально улучшить отображение):
 
-![](./pic/loading.png)
+![](https://github.com/RT-Vinsent/ahj-homeworks/raw/simplification/dom/pic/loading.png)
 
 Обратите внимание, в каком виде выводятся оценки (после точки всегда два символа).
 
 При сортировке по id (по возрастанию):
 
-![](./pic/loading-2.png)
+![](https://github.com/RT-Vinsent/ahj-homeworks/raw/simplification/dom/pic/loading-2.png)
 
 Обратите внимание на стрелку возле id.
 
